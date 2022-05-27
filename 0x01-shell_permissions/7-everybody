@@ -1,2 +1,3 @@
+
 #!/bin/bash
-chown a+x hello
+chown a+X hello
